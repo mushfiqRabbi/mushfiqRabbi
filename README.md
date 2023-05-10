@@ -11,7 +11,7 @@ I'm Mushfiqur Rahman, a Computer Science and Engineering graduate with a passion
 
 ## Skills
 
-- **Front-end**: HTML5, CSS3, JavaScript, React
+- **Front-end**: HTML5, CSS3, JavaScript, React.js, Next.js, Bootstrap, Tailwind CSS, SASS
 - **Back-end**: Node.js, Express.js
 - **Database**: MongoDB, MySQL
 - **Cloud**: Firebase
