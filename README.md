@@ -20,9 +20,14 @@ I'm Mushfiqur Rahman, a Computer Science and Engineering graduate with a passion
 
 ## Projects
 
-- [Project 1](link-to-project-1): Brief description of the project.
-- [Project 2](link-to-project-2): Brief description of the project.
-- [Project 3](link-to-project-3): Brief description of the project.
+- [eMart](https://github.com/mushfiqRabbi/eMart-E-Commerce-Website): eMart is an efficient e-commerce website powered by Next.js, React.js, MongoDB, Prisma, Stripe, and Algolia.
+With sign-in/sign-up, product search, filtering, cart, checkout, and secure payment gateway, it provides a
+seamless and secure shopping experience.
+- [ubChats](https://github.com/mushfiqRabbi/ubChats-Online-chatting-and-audio-video-calling-website): ubChats is an all-in-one chatting website built with React.js, MongoDB, Mongoose, React Router, Redux,
+Socket.io, WebRTC, and Algolia. It offers seamless sign-in/sign-up, user search, real-time chatting, audio
+calling, and video calling for a comprehensive communication experience.
+- [Personal Portfolio](https://github.com/mushfiqRabbi/my-portfolio): A sleek and modern portfolio website created with Next.js and Tailwind CSS. It features a visually appealing
+design that showcases the creator's skills, projects, and achievements in a seamless and engaging manner.
 
 ## Education
 
