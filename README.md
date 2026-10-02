@@ -30,8 +30,8 @@ Also: Hono, Drizzle, Sequelize, BullMQ, Zod, OpenAPI, Socket.io, WebRTC · **AI/
 Most of my commits go to private client repositories, so they don't show up as public code, but they do count here.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mushfiqRabbi&theme=dark&hide_border=true">
-  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=mushfiqRabbi&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mushfiqRabbi&theme=dark&hide_border=true&disable_animations=true">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=mushfiqRabbi&hide_border=true&disable_animations=true">
 </picture>
 
 Open to senior engineering and tech lead roles in backend, full-stack, and AI integration, remote or relocation.
