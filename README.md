@@ -2,6 +2,9 @@
 
 **Technical Team Lead & Senior Full-Stack Engineer** at [Arbree Limited](https://arbreesolutions.com/), Dhaka.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushfiqur-rahman-me/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mushfiqxrabbi@gmail.com)
+
 I build and lead teams that ship production backend systems: TypeScript microservices, PostgreSQL, AWS, and increasingly, AI/LLM features that do real work. I lead a 10+ person team across backend, frontend, mobile (Flutter), and QA, and I still write a lot of the core code.
 
 ## What I've built
@@ -18,17 +21,17 @@ Beyond the code: I've built CI/CD pipelines that cut deployments from about an h
 
 ## Tech stack
 
-- **Languages:** TypeScript, JavaScript, SQL, Bash
-- **Backend:** Node.js, NestJS, Express, Hono, REST APIs, OpenAPI, Zod, Socket.io, WebRTC
-- **Frontend:** React, Next.js, React Query
-- **Data:** PostgreSQL, MySQL, MongoDB, SQLite, Redis, Prisma, Drizzle, Sequelize
-- **Messaging:** RabbitMQ, BullMQ
-- **Cloud & DevOps:** AWS (EC2, S3, RDS, IAM), Google Cloud, DigitalOcean, Docker, GitHub Actions, Linux
-- **AI/LLM:** RAG, vector search, Claude API, OpenAI API, prompt design
+[![Tech stack](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,nextjs,react,postgres,mysql,mongodb,sqlite,redis,prisma,rabbitmq,aws,gcp,docker,githubactions,linux,bash,git&perline=11)](https://skillicons.dev)
 
-## Get in touch
+Also: Hono, Drizzle, Sequelize, BullMQ, Zod, OpenAPI, Socket.io, WebRTC · **AI/LLM:** RAG, vector search, Claude API, OpenAI API, prompt design
 
-- LinkedIn: [mushfiqur-rahman-me](https://www.linkedin.com/in/mushfiqur-rahman-me/)
-- Email: mushfiqxrabbi@gmail.com
+## Activity
+
+Most of my commits go to private client repositories, so they don't show up as public code, but they do count here.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mushfiqRabbi&theme=dark&hide_border=true">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=mushfiqRabbi&hide_border=true">
+</picture>
 
 Open to senior engineering and tech lead roles in backend, full-stack, and AI integration, remote or relocation.
