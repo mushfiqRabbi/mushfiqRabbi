@@ -1,43 +1,34 @@
-# Hi there! 👋
+# Hi, I'm Mushfiqur Rahman 👋
 
-I'm Mushfiqur Rahman, a Computer Science and Engineering graduate with a passion for full stack web development. Welcome to my GitHub profile!
+**Technical Team Lead & Senior Full-Stack Engineer** at [Arbree Limited](https://arbreesolutions.com/), Dhaka.
 
-## About Me
+I build and lead teams that ship production backend systems: TypeScript microservices, PostgreSQL, AWS, and increasingly, AI/LLM features that do real work. I lead a 10+ person team across backend, frontend, mobile (Flutter), and QA, and I still write a lot of the core code.
 
-- 🎓 Graduated with a degree in Computer Science and Engineering
-- 💻 Eager to apply my knowledge and skills to create innovative web solutions
-- 🌐 Experienced in building web applications using modern technologies
-- 🌱 Continuously learning and exploring new technologies to enhance my skills
+## What I've built
 
-## Skills
+Most of my work is client code in private repositories, so here is the short version.
 
-- **Front-end**: HTML5, CSS3, JavaScript, React.js, Next.js, Bootstrap, Tailwind CSS, SASS
-- **Back-end**: Node.js, Express.js
-- **Database**: MongoDB, MySQL
-- **Cloud**: Firebase
-- **Version Control**: Git, GitHub
-- **DevOps**: Docker
+- **EducateU**: a study-abroad platform connecting agents, universities, and students. 5+ TypeScript microservices (Express, Next.js) on PostgreSQL, runtime-defined RBAC for 10+ roles with audit trails, RabbitMQ/BullMQ background processing, Redis caching, and read replicas. Load-tested at 100,000+ users. I took it over mid-project as tech lead and delivered it to production in 2026.
+- **NBR EFDMS**: the National Board of Revenue's Electronic Fiscal Device Management System, serving 30,000+ retail outlets in Bangladesh. I single-handedly built an Express/MySQL microservice and automated its containerized deployments. ([case study](https://arbreesolutions.com/portfolio/nbr/))
+- **Customs analytics platform**: a multi-tenant backend that streams 50,000+ row spreadsheets through a queue and worker-thread pipeline, staying responsive on anything from 2 vCPUs to 12 cores.
+- **AI-powered IFRS advisory system**: directed the RAG architecture, including vector retrieval design and model selection across OpenAI and Claude.
+- **EV Charge**: backend for an EV charging platform built for Rancon and Mercedes-Benz, integrating partner charging hardware over REST and SSLCOMMERZ payments, plus a Next.js admin panel. ([case study](https://arbreesolutions.com/portfolio/ev-charge/))
 
-## Projects
+Beyond the code: I've built CI/CD pipelines that cut deployments from about an hour to minutes, hired and mentored engineers, set the team's code review standards, and hardened AWS access (MFA, least-privilege IAM).
 
-- [eMart](https://github.com/mushfiqRabbi/eMart-E-Commerce-Website): eMart is an efficient e-commerce website powered by Next.js, React.js, MongoDB, Prisma, Stripe, and Algolia.
-With sign-in/sign-up, product search, filtering, cart, checkout, and secure payment gateway, it provides a
-seamless and secure shopping experience.
-- [ubChats](https://github.com/mushfiqRabbi/ubChats-Online-chatting-and-audio-video-calling-website): ubChats is an all-in-one chatting website built with React.js, MongoDB, Mongoose, React Router, Redux,
-Socket.io, WebRTC, and Algolia. It offers seamless sign-in/sign-up, user search, real-time chatting, audio
-calling, and video calling for a comprehensive communication experience.
-- [Personal Portfolio](https://github.com/mushfiqRabbi/my-portfolio): A sleek and modern portfolio website created with Next.js and Tailwind CSS. It features a visually appealing
-design that showcases the creator's skills, projects, and achievements in a seamless and engaging manner.
+## Tech stack
 
-## Education
+- **Languages:** TypeScript, JavaScript, SQL, Bash
+- **Backend:** Node.js, NestJS, Express, Hono, REST APIs, OpenAPI, Zod, Socket.io, WebRTC
+- **Frontend:** React, Next.js, React Query
+- **Data:** PostgreSQL, MySQL, MongoDB, SQLite, Redis, Prisma, Drizzle, Sequelize
+- **Messaging:** RabbitMQ, BullMQ
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, IAM), Google Cloud, DigitalOcean, Docker, GitHub Actions, Linux
+- **AI/LLM:** RAG, vector search, Claude API, OpenAI API, prompt design
 
-- Bachelor of Science in Computer Science and Engineering, [Bangladesh University of Business and Technology](https://www.bubt.edu.bd/)
+## Get in touch
 
-## Contact Me
+- LinkedIn: [mushfiqur-rahman-me](https://www.linkedin.com/in/mushfiqur-rahman-me/)
+- Email: mushfiqxrabbi@gmail.com
 
-- 📧 Email: mushfiqxrabbi@gmail.com
-- 💼 LinkedIn: [Mushfiqur Rahman](https://www.linkedin.com/in/mushfiqur-rahman-me/)
-
-Let's connect and collaborate on exciting web development projects! Feel free to reach out to me for any opportunities or inquiries.
-
-Thank you for visiting my profile! Have a great day! 😊
+Open to senior engineering and tech lead roles in backend, full-stack, and AI integration, remote or relocation.
